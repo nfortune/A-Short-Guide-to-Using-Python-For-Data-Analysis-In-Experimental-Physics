@@ -8,5 +8,6 @@ import pint # a useful package for calculations using units
 unit = pint.UnitRegistry()  # here we use 'unit' instead of the more standard 'ureg' for clarity
 Q_ = unit.Quantity 
 
-
+gravitational_field_strength  = 9.8  * unit.newton / unit.kg
+print(gravitational_field_strength)
 ```
