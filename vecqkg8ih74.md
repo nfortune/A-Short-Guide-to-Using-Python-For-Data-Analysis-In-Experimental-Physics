@@ -9,7 +9,7 @@ unit = pint.UnitRegistry()  # here we use 'unit' instead of the more standard 'u
 Q_ = unit.Quantity 
 
 gravitational_field_strength  = 9.8  * unit.newton / unit.kg
-
+g = gravitational_field_strength.to_base_units()
 print(gravitational_field_strength)
 
 ```
