@@ -13,7 +13,7 @@ g = gravitational_field_strength.to_base_units()
 
 print(gravitational_field_strength)
 print('{:P}'.format(gravitational_field_strength))
-print('{:~P}'.fopr)
+print('{:~P}'.fop)
 
 
 ```
