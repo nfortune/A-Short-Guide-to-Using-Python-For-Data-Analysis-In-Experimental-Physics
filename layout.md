@@ -1,5 +1,4 @@
 untitled.html
-figures/Pint_Install_ScreenShot
 llnk7tv35c4.html
 7f42egjpe4g.md
 v26755e9jjg.html
