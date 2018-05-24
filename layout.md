@@ -11,7 +11,6 @@ sm3i3dgntvk.html
 p25989it0g.md
 s327n4br55k.html
 1q2unbrlh5s.html
-figures/Sample_Pint_Notebook1
 3t6o46uana8.html
 cbc6vpn12j8.html
 l1m4l9q0r4.html
