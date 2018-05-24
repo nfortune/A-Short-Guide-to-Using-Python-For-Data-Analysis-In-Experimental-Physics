@@ -8,6 +8,8 @@ v26755e9jjg.html
 figures/Sample_Pint_Notebook
 6pntm5d6ds8.html
 sm3i3dgntvk.html
+p25989it0g.md
+s327n4br55k.html
 1q2unbrlh5s.html
 figures/Sample_Pint_Notebook1
 3t6o46uana8.html
