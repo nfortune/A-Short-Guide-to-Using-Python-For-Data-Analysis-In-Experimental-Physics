@@ -10,5 +10,7 @@ figures/Sample_Pint_Notebook
 sm3i3dgntvk.html
 p25989it0g.md
 s327n4br55k.html
+23i16fku4m8.md
+li198irbsss.html
 l1m4l9q0r4.html
 r496qi268mc.html
