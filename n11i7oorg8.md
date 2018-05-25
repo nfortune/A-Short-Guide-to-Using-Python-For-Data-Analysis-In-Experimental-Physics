@@ -1,3 +1,3 @@
 ```
-pip install --upgrade pint
+pip install pint
 ```
