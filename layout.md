@@ -8,8 +8,6 @@ j4ur5unhcss.md
 hhnfirpk9bc.md
 um315ej1ei4.html
 figures/Sample_Pint_Notebook
-rgrl49jr614.html
-q4reck2qfb.html
 jeoicevpcsc.html
 knrecvf8n4.html
 ltar0pui5bc.md
