@@ -4,7 +4,7 @@
 >>> print('{:~P}'.format(masses))
 [  0.1   0.2   0.5   1.    2.    5.   10. ] kg
 
-masses.magnitude
+>>>masses.magnitude
 
 array([  0.1,   0.2,   0.5,   1. ,   2. ,   5. ,  10. ])
 
