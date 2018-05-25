@@ -1,6 +1,6 @@
 ```
 >>> mass_magnitudes = np.array([0.1, 0.2, 0.5, 1.0, 2.0, 5.0, 10.0])
-masses = mass_magnitudes * unit.kg
+>>>masses = mass_magnitudes * unit.kg
 print('{:~P}'.format(masses))
 
 [  0.1   0.2   0.5   1.    2.    5.   10. ] kg
