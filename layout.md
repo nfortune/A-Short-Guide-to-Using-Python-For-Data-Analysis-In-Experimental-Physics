@@ -3,7 +3,6 @@ n11i7oorg8.md
 f5iqnmol1n.html
 figures/Pint_Install_ScreenShot
 v26755e9jjg.html
-figures/Sample_Pint_Notebook
 6pntm5d6ds8.html
 sm3i3dgntvk.html
 23i16fku4m8.md
