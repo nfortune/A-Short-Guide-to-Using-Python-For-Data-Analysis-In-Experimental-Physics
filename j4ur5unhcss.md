@@ -9,7 +9,6 @@ g  = 9.8  * unit.newton / unit.kg # define quantities with units
 m = Q_(1.0, 'kg')  # an alternative method
 
 force = m * g  #define calculated quantity
-
 print(force)
 
 9.8 newton
