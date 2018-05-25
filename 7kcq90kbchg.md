@@ -8,7 +8,6 @@ print('{:~P}'.format(masses))
 masses.magnitude
 
 array([  0.1,   0.2,   0.5,   1. ,   2. ,   5. ,  10. ])
-In [13]:
 
 print('{:~P}'.format(masses * g))
 [  0.98   1.96   4.9    9.8   19.6   49.    98.  ] N
