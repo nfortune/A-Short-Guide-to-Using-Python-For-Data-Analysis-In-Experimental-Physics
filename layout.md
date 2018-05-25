@@ -12,6 +12,8 @@ l1m4l9q0r4.html
 j4ur5unhcss.md
 66nha6dk2jk.html
 ljeucd026l4.html
+figures/Sample_Pint_Notebook1
+jeoicevpcsc.html
 ltar0pui5bc.md
 6jp54gricp.html
 il0gadolb9g.html
