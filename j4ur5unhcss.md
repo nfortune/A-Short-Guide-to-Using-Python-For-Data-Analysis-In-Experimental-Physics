@@ -9,5 +9,4 @@ g  = 9.8  * unit.newton / unit.kg
 m = Q_(1.0, 'kg')
 force = m * g
 print(force)
-
 ```
