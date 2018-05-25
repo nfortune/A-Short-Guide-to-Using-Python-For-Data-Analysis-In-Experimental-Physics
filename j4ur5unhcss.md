@@ -5,7 +5,7 @@ import pint
 unit = pint.UnitRegistry()  # for clarity, we use 'unit' instead of the default 'ureg'
 Q_ = unit.Quantity 
 
-g  = 9.8  * unit.newton / unit.kg #define quantiti
+g  = 9.8  * unit.newton / unit.kg #define quantities
 m = Q_(1.0, 'kg')
 force = m * g
 
