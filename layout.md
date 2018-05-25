@@ -1,6 +1,4 @@
 untitled.html
-0vgglnb178k.html
-v4qdbnaejkg.html
 64fu2llec1c.html
 figures/Pint_Install_ScreenShot
 v26755e9jjg.html
