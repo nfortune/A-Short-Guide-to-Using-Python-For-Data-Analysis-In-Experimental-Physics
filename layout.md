@@ -8,7 +8,6 @@ figures/Sample_Pint_Notebook
 jeoicevpcsc.html
 ltar0pui5bc.md
 6jp54gricp.html
-vonj41603l.md
 il0gadolb9g.html
 bn3mtg5kj2g.html
 r496qi268mc.html
