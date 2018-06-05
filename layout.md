@@ -16,7 +16,6 @@ taj2jratal8.md
 3kgdvnloq18.html
 h1ae808228c.md
 f8n7kco0jrs.html
-figures/650 nm calibration with error
 ppt0voheg0k.html
 figures/CalibrationData650nmNoGrid
 ijo0203no2s.html
