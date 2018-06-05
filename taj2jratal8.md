@@ -1,3 +1,3 @@
 ```
-from numpy 
+from numpy import 
 ```
