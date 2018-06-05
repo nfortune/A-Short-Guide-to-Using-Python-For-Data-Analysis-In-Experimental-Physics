@@ -1,3 +1,3 @@
 ```
-from numpy import sav
+from numpy import savetxt
 ```
