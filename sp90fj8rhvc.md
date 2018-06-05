@@ -1,3 +1,3 @@
 ```
-import numpy as np # so 
+import numpy as np # this 
 ```
