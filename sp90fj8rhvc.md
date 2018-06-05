@@ -3,5 +3,4 @@ import numpy as np # this allows you to type the abbreviation 'np' instead of 'n
 
 filename = '650 nm calibration with error.csv'
 angle, V_pd, V_pd_delta = np.loadtxt(filename, delimiter = ',', skiprows = 1, unpack = True) #notice the np. prefix! 
-
 ```
