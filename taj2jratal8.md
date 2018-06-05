@@ -7,5 +7,5 @@ comment_text = ''                                #do not start header row with a
 #comment_text = '#'                              #this is the default behavior (marking the header as a comment)
 
 data = array([angle, V_pd, V_pd_delta]).T        #create a 2D matrix and transpose rows and columns 
-savetxt(output_filename, data, delimiter = ',', header = header_row_text, comments = comment_text) #
+savetxt(output_filename, data, delimiter = ',', header = header_row_text, comments = comment_text) 
 ```
