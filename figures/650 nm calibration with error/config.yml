@@ -19,3 +19,4 @@ grid:
     url: "/users/18589/articles/304710/master/file/figures/650%20nm%20calibration%20with%20error/650%20nm%20calibration%20with%20error.csv"
     folder_url: "/users/18589/articles/304710/master/folder/figures/650 nm calibration
       with error"
+    treatFirstLineAsHeader: true
