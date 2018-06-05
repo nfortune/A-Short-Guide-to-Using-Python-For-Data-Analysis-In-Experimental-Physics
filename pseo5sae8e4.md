@@ -1,3 +1,3 @@
 ```
-from numpy import lo
+from numpy import load
 ```
