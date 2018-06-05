@@ -4,7 +4,7 @@ from numpy import savetxt
 output_filename = 'output.csv'                   #provide a name for the new file
 header_row_text = 'angle, V_pd, V_pd_delta'      #make first row of file be a list of column names. This is optional. 
 # comment_text = '#'                             #this is the default behavior, marking the header as a comment
-comment_text = ''                                #do not start header row with a '#' to indicaThis is optional. 
+comment_text = ''                                #do not start header row with a '#' 
                                                  #the default is start the header row with a '#' 
 
 data = array([angle, V_pd, V_pd_delta]).T        #create a 2D matrix and transpose rows and columns 
