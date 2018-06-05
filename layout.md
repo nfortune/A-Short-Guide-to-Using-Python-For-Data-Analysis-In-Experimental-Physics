@@ -8,6 +8,8 @@ figures/Sample_Pint_Notebook
 jeoicevpcsc.html
 ltar0pui5bc.md
 6jp54gricp.html
+pseo5sae8e4.md
+odos56lord4.html
 r496qi268mc.html
 figures/OpenTerminalWindowInAnacondaNavigator
 hk4gats0aek.html
