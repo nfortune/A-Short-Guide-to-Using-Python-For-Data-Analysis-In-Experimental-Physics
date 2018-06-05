@@ -2,7 +2,7 @@
 from numpy import savetxt
 
 output_filename = 'output.csv'                   #provide a name for the new file
-header_row_text = 'angle, V_pd, V_pd_delta'      #insert colunthis is optional
+header_row_text = 'angle, V_pd, V_pd_delta'      #insert coluthis is optional
 comment_text = ''                                #this is optional. 
                                                  #the default is start the header row with a '#' 
 
