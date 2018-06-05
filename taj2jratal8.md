@@ -1,3 +1,3 @@
 ```
-from num
+from numpy 
 ```
