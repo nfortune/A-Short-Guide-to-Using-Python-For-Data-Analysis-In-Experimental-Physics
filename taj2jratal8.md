@@ -1,7 +1,7 @@
 ```
 from numpy import savetxt
 
-output_filename = 'tex'
+output_filename = 'te'
 data = array([angle, V_pd, V_pd_delta]).T
 
 ```
