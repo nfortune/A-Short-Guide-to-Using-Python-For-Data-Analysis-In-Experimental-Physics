@@ -1,6 +1,5 @@
 ```
 from numpy import savetxt
-
 output_filename = 'output.csv'                   #provide a name for the new file
 
 
