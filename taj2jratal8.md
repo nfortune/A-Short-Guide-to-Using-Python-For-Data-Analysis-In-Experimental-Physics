@@ -1,5 +1,5 @@
 ```
-from numpy import savetxt, array                 #assumes you haven't already imported these 
+from numpy import savetxt, array                 #assumes you haven't already imported these command
 
 output_filename = 'output.csv'                   #provide a name for the new file
 header_row_text = 'angle, V_pd, V_pd_delta'      #make first row of file be a list of column names. Optional. 
