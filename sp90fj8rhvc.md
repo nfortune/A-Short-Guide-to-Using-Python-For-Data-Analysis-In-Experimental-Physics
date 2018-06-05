@@ -1,3 +1,3 @@
 ```
-import numpy as np # this allows you to type 
+import numpy as np # this allows you to type 'np'
 ```
