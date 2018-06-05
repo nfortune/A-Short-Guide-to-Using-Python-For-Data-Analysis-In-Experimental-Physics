@@ -1,3 +1,3 @@
 ```
-from n
+from nu
 ```
