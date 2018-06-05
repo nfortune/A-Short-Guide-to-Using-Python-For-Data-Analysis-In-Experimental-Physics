@@ -12,6 +12,8 @@ pseo5sae8e4.md
 odos56lord4.html
 sp90fj8rhvc.md
 ukumnha02a8.html
+taj2jratal8.md
+3kgdvnloq18.html
 r496qi268mc.html
 figures/OpenTerminalWindowInAnacondaNavigator
 hk4gats0aek.html
