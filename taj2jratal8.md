@@ -1,7 +1,7 @@
 ```
 from numpy import savetxt
 
-output_filename = 'ouput.csv'
+output_filename = 'output.csv'
 data = array([angle, V_pd, V_pd_delta]).T
 
 ```
