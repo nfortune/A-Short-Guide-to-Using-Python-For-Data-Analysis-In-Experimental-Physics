@@ -16,6 +16,8 @@ taj2jratal8.md
 3kgdvnloq18.html
 h1ae808228c.md
 f8n7kco0jrs.html
+figures/CalibrationData650nm
+ijo0203no2s.html
 r496qi268mc.html
 figures/OpenTerminalWindowInAnacondaNavigator
 hk4gats0aek.html
