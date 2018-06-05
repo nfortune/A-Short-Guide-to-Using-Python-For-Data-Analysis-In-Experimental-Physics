@@ -1,3 +1,3 @@
 ```
-<Insert Code Here>
+import nump
 ```
