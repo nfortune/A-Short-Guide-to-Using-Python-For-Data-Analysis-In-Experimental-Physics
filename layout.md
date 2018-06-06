@@ -23,6 +23,8 @@ ijo0203no2s.html
 m43gt43mhm.html
 66biq4jg06g.md
 ogb2smrpii4.html
+t0i2oojuu1s.md
+487p5tkie94.html
 r496qi268mc.html
 figures/OpenTerminalWindowInAnacondaNavigator
 hk4gats0aek.html
