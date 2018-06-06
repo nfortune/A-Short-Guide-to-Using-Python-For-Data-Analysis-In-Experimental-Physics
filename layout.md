@@ -10,6 +10,7 @@ ltar0pui5bc.md
 6jp54gricp.html
 figures/650 nm calibration with error
 jq3iou3667o.html
+uguqi125r04.html
 pseo5sae8e4.md
 odos56lord4.html
 sp90fj8rhvc.md
