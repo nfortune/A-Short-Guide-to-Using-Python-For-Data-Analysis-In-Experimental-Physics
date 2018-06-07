@@ -16,6 +16,8 @@ f8n7kco0jrs.html
 no028ir59sg.html
 figures/CalibrationData650nmNoGrid
 ijo0203no2s.html
+figures/Fit_to_data
+0k0jskqusco.html
 3do97s930qc.html
 m43gt43mhm.html
 66biq4jg06g.md
