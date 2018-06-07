@@ -7,4 +7,5 @@ I_0 = fit[0]
 phi_0 = fit[1]
 offset = fit[2]
 
+error = sqrt(diag(covariance))
 ```
