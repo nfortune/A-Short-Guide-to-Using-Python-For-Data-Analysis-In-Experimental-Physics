@@ -1,4 +1,4 @@
 ```
-from matplotlib import pyplot #this is the 
+from matplotlib import pyplot #this is the main plotting 
 
 ```
