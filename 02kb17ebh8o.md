@@ -4,7 +4,7 @@
 % from numpy import loadtxt, savetxt, array  #omit if already entered earlier
 from matplotlib import pyplot as plt         #this is the traditional method
 
-from matplotlib import rc                    #this allows you to change 
+from matplotlib import rc                    #this allows you to change overall 
 
 plt.figure()
 plt.xlabel(r"$\theta$ [degrees]", fontsize = 18)
