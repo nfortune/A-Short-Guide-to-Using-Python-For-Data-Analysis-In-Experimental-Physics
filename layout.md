@@ -18,6 +18,8 @@ figures/CalibrationData650nmNoGrid
 ijo0203no2s.html
 eff5p2h1spo.tex
 jdpvkteoamo.html
+qgufjhe0m2g.md
+h3sd32muvhs.html
 figures/Fit_to_data
 0k0jskqusco.html
 3do97s930qc.html
