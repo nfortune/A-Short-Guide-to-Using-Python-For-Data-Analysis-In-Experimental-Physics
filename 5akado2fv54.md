@@ -6,7 +6,7 @@ data_uncertainty = V_pd_delta         # this is an assumption
 chisq = sum((residual/ data_uncertainty))**2
 degrees_of_freedom = len(residual) - len()
 reduced_chisq = chisq / degrees_of_freedom  # this should be close to one
-CDF = chi2.cdf(chisq, degrees_of_freedom)   # this should be 
+CDF = chi2.cdf(chisq, degrees_of_freedom)   # this should be close to 
 
 print('chi-square         = ',chisq)
 print('degrees of freedom = ',degrees_of_freedom)
