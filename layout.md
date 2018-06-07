@@ -3,8 +3,6 @@ dtjou3ok19o.html
 9462ee28la4.html
 figures/650 nm calibration with error
 jq3iou3667o.html
-
-a6ffeoaki78.html
 d9dojshtd68.html
 pseo5sae8e4.md
 odos56lord4.html
