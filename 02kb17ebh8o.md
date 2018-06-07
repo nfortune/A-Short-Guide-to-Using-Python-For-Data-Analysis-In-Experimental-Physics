@@ -2,7 +2,7 @@
 %matplotlib inline
 
 % from numpy import loadtxt, savetxt, array  #omit if already entered earlier
-from matplotlib import pyplot as plt
+from matplotlib import pyplot as plt 
 
 plt.figure()
 pyplot.xlabel(r"$\theta$ [degrees]", fontsize = 18)
