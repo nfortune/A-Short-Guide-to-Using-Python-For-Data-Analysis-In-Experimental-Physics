@@ -1,7 +1,7 @@
 ```
 %matplotlib inline
 
-from numpy import loadtxt, savetxt, array
+%from numpy import loadtxt, savetxt, array
 from matplotlib import pyplot as plt
 
 plt.figure()
