@@ -5,4 +5,5 @@ fit, covariance = curve_fit(polarization_model_1, theta, V_pd,
                        
 error = sqrt(diag(covariance))
 
+
 ```
