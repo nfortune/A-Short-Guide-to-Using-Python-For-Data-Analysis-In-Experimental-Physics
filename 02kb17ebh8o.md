@@ -4,6 +4,6 @@
 from numpy import loadtxt, savetxt, array
 from matplotlib import pyplot
 
-pyplot.figure
+pyplot.figure()
 
 ```
