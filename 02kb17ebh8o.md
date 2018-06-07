@@ -6,7 +6,7 @@ from matplotlib import pyplot as plt         #this is the traditional method
 
 from matplotlib import rc                    #this allows you to change overall settings
 rc('xtick', labelsize = 18)                  #use 18 point font for numbering
-rc('ytick', labelsize = 18)                  #use 18 point font for n
+rc('ytick', labelsize = 18)                  #use 18 point font for nu
 
 plt.figure()
 plt.xlabel(r"$\theta$ [degrees]", fontsize = 18)
