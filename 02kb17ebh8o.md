@@ -17,5 +17,6 @@ plt.ylabel(r"$V_{pd}$ [volts]", fontsize = 18)   #use 18 point font for label te
 plt.errorbar(angle, V_pd,  
     xerr=None, yerr=V_pd_delta, 
     linestyle = 'none', 
-    color = 'blue',  capsize = 3, capthick = 1)
+    color = 'blue',  
+    capsize = 3, capthick = 1)
 ```
