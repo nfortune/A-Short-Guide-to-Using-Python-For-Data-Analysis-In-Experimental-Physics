@@ -1,3 +1,3 @@
 ```
-
+from matplotlib import pyplot
 ```
