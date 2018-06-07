@@ -22,6 +22,8 @@ qgufjhe0m2g.md
 h3sd32muvhs.html
 91ej7tla018.md
 bc8iul9dbms.html
+31lu7ovu7ak.md
+uufq3s7lo2c.html
 figures/Fit_to_data
 0k0jskqusco.html
 3do97s930qc.html
