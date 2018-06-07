@@ -15,6 +15,6 @@ plt.xlabel(r"$\theta$ [degrees]", fontsize = 18) #label axis (using LaTeX comman
 plt.ylabel(r"$V_{pd}$ [volts]", fontsize = 18)   #use 18 point font for label text
 
 plt.errorbar(angle, V_pd,  
-xerr=None, yerr=V_pd_delta, 
+    xerr=None, yerr=V_pd_delta, 
     linestyle = 'none', color = 'blue',  capsize = 3, capthick = 1)
 ```
