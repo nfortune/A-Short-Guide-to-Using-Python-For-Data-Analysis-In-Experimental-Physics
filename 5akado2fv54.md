@@ -2,6 +2,7 @@
 from scipy.stats import chi2          # 'chi-square' goodness of fit calculation
 
 data_uncertainty = V_pd_delta         # this is an assumption
+
 chisq = sum((residual/ V_pd_delta))**2
 degrees_of_freedom = len(residual) - len()
 reduced_chisq = chisq / degrees_of_freedom
