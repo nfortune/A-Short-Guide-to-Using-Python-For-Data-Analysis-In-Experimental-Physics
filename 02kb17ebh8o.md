@@ -2,7 +2,7 @@
 %matplotlib inline
 
 from numpy import loadtxt, savetxt, array
-from matplotlib import pyplot, r 
+from matplotlib import pyplot, rc 
 
 
 ```
