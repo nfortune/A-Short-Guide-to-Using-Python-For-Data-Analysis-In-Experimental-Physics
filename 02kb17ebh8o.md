@@ -9,7 +9,7 @@ rc('xtick', labelsize = 18)                  #use 18 point font for numbering on
 rc('ytick', labelsize = 18)                  #use 18 point font for numbering on y axis
 
 plt.figure(figsize = (7,5))                  #specify figure size as 7 x 5 inches
-                                             #type plt.figure() 
+                                             #for deftype plt.figure() 
                                              
 plt.xlabel(r"$\theta$ [degrees]", fontsize = 18)
 plt.ylabel(r"$V_{pd}$ [volts]", fontsize = 18)
