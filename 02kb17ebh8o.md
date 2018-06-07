@@ -8,7 +8,7 @@ from matplotlib import rc                    #this allows you to change overall 
 rc('xtick', labelsize = 18)                  #use 18 point font for numbering on x axis
 rc('ytick', labelsize = 18)                  #use 18 point font for numbering on y axis
 
-plt.figure(figsize = (7,5))                 #
+plt.figure(figsize = (7,5))                 #type 
 plt.xlabel(r"$\theta$ [degrees]", fontsize = 18)
 plt.ylabel(r"$V_{pd}$ [volts]", fontsize = 18)
 
