@@ -6,6 +6,6 @@ CDF = chi2.cdf(chisq, degrees_of_freedom)
 print('chi-square         = ',chisq)
 print('degrees of freedom = ',degrees_of_freedom)
 print('reduced chi-square = ',reduced_chisq)
-print()
+
 print('fractional probability of chisq ≤', chisq, 'for ', degrees_of_freedom, 'dof is', CDF)
 ```
