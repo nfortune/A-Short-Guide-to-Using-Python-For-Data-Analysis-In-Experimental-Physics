@@ -1,6 +1,6 @@
 ```
 chisq = sum((residual/ V_pd_delta))**2
-degrees_of_freedom = len(residual) - len
+degrees_of_freedom = len(residual) - len()
 reduced_chisq = chisq / degrees_of_freedom
 CDF = chi2.cdf(chisq, degrees_of_freedom)
 
