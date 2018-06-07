@@ -20,6 +20,8 @@ eff5p2h1spo.tex
 jdpvkteoamo.html
 qgufjhe0m2g.md
 h3sd32muvhs.html
+91ej7tla018.md
+bc8iul9dbms.html
 figures/Fit_to_data
 0k0jskqusco.html
 3do97s930qc.html
