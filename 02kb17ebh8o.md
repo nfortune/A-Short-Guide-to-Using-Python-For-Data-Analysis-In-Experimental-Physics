@@ -3,6 +3,4 @@
 
 from matplotlib import pyplot 
 
-
-
 ```
