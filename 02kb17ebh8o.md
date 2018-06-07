@@ -5,7 +5,7 @@
 from matplotlib import pyplot as plt         #this is the traditional method
 
 from matplotlib import rc                    #this allows you to change overall settings
-rc('xtick', labelsize = 18)                  #use 18 point font for numbering
+rc('xtick', labelsize = 18)                  #use 18 point font for numbering on x axis
 rc('ytick', labelsize = 18)                  #use 18 point font for numbering on y axis
 
 plt.figure()
