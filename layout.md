@@ -17,6 +17,8 @@ figures/CalibrationData650nmNoGrid
 ijo0203no2s.html
 eff5p2h1spo.tex
 jdpvkteoamo.html
+apjpd3mmenc.tex
+npieuiv6m6k.html
 qgufjhe0m2g.md
 h3sd32muvhs.html
 91ej7tla018.md
