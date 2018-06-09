@@ -1,5 +1,6 @@
 ```
-# create angle array in radia
+# create angle array in radians 
+
 theta = angle * pi / 180  # convert to radians
 
 # make initial estimates from data
