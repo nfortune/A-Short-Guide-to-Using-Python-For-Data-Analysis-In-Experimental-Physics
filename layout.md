@@ -48,6 +48,8 @@ tuf1r2vtbts.tex
 heq51l9rv84.html
 c2r64j4khus.tex
 la0mk3esv2g.html
+33258mite2s.md
+5a3jstmevqc.html
 r496qi268mc.html
 figures/OpenTerminalWindowInAnacondaNavigator
 hk4gats0aek.html
