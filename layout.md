@@ -50,6 +50,8 @@ c2r64j4khus.tex
 la0mk3esv2g.html
 9vgs2htislg.md
 5a3jstmevqc.html
+m1in2qd79c8.md
+54l2l2311u4.html
 r496qi268mc.html
 figures/OpenTerminalWindowInAnacondaNavigator
 hk4gats0aek.html
