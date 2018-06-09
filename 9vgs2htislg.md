@@ -1,3 +1,3 @@
 ```
-sigma(delta)
+sigma(delta_V)
 ```
