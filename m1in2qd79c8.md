@@ -7,7 +7,7 @@ V1   = 0.2 #offset voltage, in mV
 
 V0_error = 
 phi0_error = 1 * pi / 180 # assume 1 degree error
-V1_error = 0
+V1_error = 0.014 
 
 initial_guess=array([V0, phi0, V1])
 
