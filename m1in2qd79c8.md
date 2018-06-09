@@ -6,7 +6,7 @@ phi0 = 0.0   #offset angle, in radians
 V1   = 0.2 #offset voltage, in mV
 
 V0_error = 
-phi0_error = 1 * 
+phi0_error = 1 * pi / 
 
 initial_guess=array([V0, phi0, V1])
 
