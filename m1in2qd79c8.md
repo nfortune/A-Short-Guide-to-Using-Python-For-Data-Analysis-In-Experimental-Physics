@@ -8,7 +8,7 @@ initial_guess=array([V0, phi0, V1])
 
 theta = angle * pi / 180  # convert to radians
 
-V_pd_estimated_error = sigma(theta, V0_error, phi0_error, V1_err, )
+V_pd_estimated_error = sigma(theta, V0_error, phi0_error, V1_error, V)
 
 fit, covariance = curve_fit(polarization_model_1, theta, V_pd, 
                        p0 = initial_guess, 
