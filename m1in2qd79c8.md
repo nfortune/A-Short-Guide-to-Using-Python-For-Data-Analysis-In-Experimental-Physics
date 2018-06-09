@@ -15,7 +15,6 @@ V1_error = 0.014 # in mV estimate from data
 
 initial_guess=array([V0, phi0, V1])
 
-
 V_pd_estimated_error = sigma(theta, V0_error, phi0_error, V1_error, V0)
 
 fit, covariance = curve_fit(polarization_model_1, theta, V_pd, 
