@@ -1,5 +1,5 @@
 ```
-#
+# make initial ge
 V0   = 33.0    #peak value - offset voltage, in mV
 phi0 = 0.0   #offset angle, in radians
 V1   = 0.2 #offset voltage, in mV
