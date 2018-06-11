@@ -1,7 +1,7 @@
 ```
 # example: direct numpy import style 
 
-from numpy import loadtxt   #import 
+from numpy import loadtxt   #import the num
 #from numpy import *        #an alternative method that imports everything
 
 filename = '650 nm calibration.csv'
