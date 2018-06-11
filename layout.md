@@ -1,7 +1,6 @@
 untitled.html
 figures/650 nm calibration
 jq3iou3667o.html
-612it8pmmek.html
 d9dojshtd68.html
 pseo5sae8e4.md
 odos56lord4.html
