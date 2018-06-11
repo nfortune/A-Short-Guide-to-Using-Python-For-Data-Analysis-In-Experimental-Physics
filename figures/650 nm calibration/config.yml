@@ -17,3 +17,5 @@ grid:
     - 1
     - 1
     url: "/users/18589/articles/304710/master/file/figures/650%20nm%20calibration/650%20nm%20calibration.csv"
+    folder_url: "/users/18589/articles/304710/master/folder/figures/650 nm calibration"
+    treatFirstLineAsHeader: true
