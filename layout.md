@@ -63,8 +63,6 @@ figures/Sample_Pint_Notebook
 ukd1dkq2u6.html
 n26arsqjggg.md
 ts5ettqoa34.html
-heq51l9rv84.html
-la0mk3esv2g.html
 9vgs2htislg.md
 5a3jstmevqc.html
 m1in2qd79c8.md
