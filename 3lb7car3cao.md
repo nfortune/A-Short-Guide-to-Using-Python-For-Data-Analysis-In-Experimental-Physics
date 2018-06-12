@@ -17,7 +17,7 @@ angle_fit = linspace(0, 360, 180)
 theta_fit = angle_fit * pi / 180
 V_pd_fit = polarization_model(theta_fit, fit[0], fit[1], fit[2])
 
-#plot the curve fit 
+#plot the curve fit in red
 plt.errorbar(angle_fit, V_pd_fit, xerr = None, yerr = None, color = 'red', label = 'fit' )
 plt.xlim(-15, 375)
 plt.ylim(-2.5, 40)
