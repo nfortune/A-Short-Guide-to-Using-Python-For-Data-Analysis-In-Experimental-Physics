@@ -1,5 +1,5 @@
 ```
-theta_array = angle * pi/180 \
+theta_array = angle * pi/180 
 
 fit, covariance = curve_fit(polarization_model, theta_array, V_pd, 
                        p0 = initial_guess, 
