@@ -29,6 +29,8 @@ ubfaghc22n4.md
 lu3ikg7aq74.html
 jc2asf9nop8.html
 moc73ruvonc.html
+l95m4m07a0s.md
+8g8ri8ng71.html
 91ej7tla018.md
 bc8iul9dbms.html
 31lu7ovu7ak.md
