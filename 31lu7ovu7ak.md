@@ -1,6 +1,7 @@
 ```
 theta_array = angle * pi/180 
 
+
 estimated_error = sigma(theta_array, dV0, dtheta, dV1, V0, theta0 )
 
 fit, covariance = curve_fit(polarization_model, theta_array, V_pd, 
