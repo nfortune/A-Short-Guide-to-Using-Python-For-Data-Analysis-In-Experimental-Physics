@@ -12,7 +12,6 @@ plt.errorbar(angle, V_pd,
     color = 'blue',  
     capsize = 3, capthick = 1, label = "data")
 
-
 #create curve showing fit to data 
 angle_fit = linspace(0, 360, 180)
 theta_fit = angle_fit * pi / 180
