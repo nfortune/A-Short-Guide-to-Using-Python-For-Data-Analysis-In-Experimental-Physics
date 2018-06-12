@@ -48,7 +48,6 @@ n26arsqjggg.md
 ts5ettqoa34.html
 hhmh3m353rk.html
 heq51l9rv84.html
-c2r64j4khus.tex
 la0mk3esv2g.html
 9vgs2htislg.md
 5a3jstmevqc.html
