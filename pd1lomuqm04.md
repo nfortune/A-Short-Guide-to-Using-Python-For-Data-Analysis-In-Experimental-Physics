@@ -1,3 +1,3 @@
 ```
-delta_phi = 0.5 * pi / 1
+delta_phi = 0.5 * pi / 180
 ```
