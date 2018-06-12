@@ -16,7 +16,7 @@ V_1 = fit[2]
 
 print()
 print('V_0    = ','{:.3f}'.format(fit[0]), '±', '{:.3f}'.format(error[0]), ' mV')
-print('offset = ','{:.4f}'.format(fit[2]), '±', '{:.3f}'.format(error[2]), ' mV')
+print('V_ = ','{:.4f}'.format(fit[2]), '±', '{:.3f}'.format(error[2]), ' mV')
 print('phi_0  = ','{:.4f}'.format(fit[1]), '±', '{:.4f}'.format(error[1]), 'radian')
 print('       = ','{:.4f}'.format(fit[1]*180/pi), '±', '{:.4f}'.format(error[1]*180/pi), 'degrees')
 
