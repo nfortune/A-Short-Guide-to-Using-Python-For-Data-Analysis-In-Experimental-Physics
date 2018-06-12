@@ -5,7 +5,7 @@ estimated_error = sigma(theta_array, dV0, dtheta, dV1, V0, theta0 )
 
 fit, covariance = curve_fit(polarization_model, theta_array, V_pd, 
                        p0 = initial_guess, 
-                       sigma = V_pd_delta, absolute_sigma = True)
+                       sigma = estimated, absolute_sigma = True)
                        
 I_0 = fit[0]
 phi_0 = fit[1]
