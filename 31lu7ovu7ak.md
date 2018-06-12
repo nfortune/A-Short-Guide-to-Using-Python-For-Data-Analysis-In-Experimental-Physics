@@ -8,7 +8,7 @@ fit, covariance = curve_fit(polarization_model, theta_array, V_pd,
                        p0 = initial_guess, 
                        sigma = estimated_error, absolute_sigma = True)
                        
-                       
+estimated_error = sigma(theta, dV0, dtheta, dV1, V0, theta0 )                       
                        
 I_0 = fit[0]
 phi_0 = fit[1]
