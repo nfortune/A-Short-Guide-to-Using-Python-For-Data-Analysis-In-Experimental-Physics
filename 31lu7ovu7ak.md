@@ -10,7 +10,7 @@ fit, covariance = curve_fit(polarization_model, theta_array, V_pd,
                        
 error = sqrt(diag(covariance))                      
                        
-_0 = fit[0]
+V_0 = fit[0]
 phi_0 = fit[1]
 offset = fit[2]
 
