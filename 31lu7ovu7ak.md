@@ -14,7 +14,7 @@ I_0 = fit[0]
 phi_0 = fit[1]
 offset = fit[2]
 
-error = sqrt(diag(covariance))
+
 
 print()
 print('I_0    = ','{:.3f}'.format(fit[0]), '±', '{:.3f}'.format(error[0]), ' mV')
