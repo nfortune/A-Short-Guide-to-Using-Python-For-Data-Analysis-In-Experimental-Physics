@@ -19,6 +19,8 @@ eff5p2h1spo.tex
 jdpvkteoamo.html
 uppue2ah8ic.tex
 jmrfuglldbo.html
+m9qngjcbt7c.tex
+q8vl6tmncas.html
 qgufjhe0m2g.md
 h3sd32muvhs.html
 91ej7tla018.md
