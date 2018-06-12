@@ -38,7 +38,6 @@ us8q8rc28ag.md
 73rr7e7r798.html
 3lb7car3cao.md
 7d47ord9r9.html
-rt1ek03t9kc.html
 n1ic4ev0flc.html
 figures/Fit_to_data
 0k0jskqusco.html
