@@ -12,7 +12,7 @@ error = sqrt(diag(covariance))
                        
 V_0 = fit[0]
 phi_0 = fit[1]
-offset = fit[2]
+V = fit[2]
 
 
 
