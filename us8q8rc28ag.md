@@ -1,3 +1,15 @@
 ```
-<Insert Code Here>
+estimated_error = sigma(theta, dV0, dtheta, error[2], fit[0], fit[1])
+
+
+fit, covariance = curve_fit(polarization_model_1, theta, V_pd, 
+                       p0 = fit, 
+                       sigma = estimated_error, absolute_sigma = True)
+error = sqrt(diag(covariance))
+
+print()
+print(old_fit)
+print(fit)
+old_fit = copy(fit)
+print()
 ```
