@@ -21,6 +21,8 @@ uppue2ah8ic.tex
 jmrfuglldbo.html
 m9qngjcbt7c.tex
 q8vl6tmncas.html
+atfq74ldbig.tex
+crf9opiqt4k.html
 qgufjhe0m2g.md
 h3sd32muvhs.html
 91ej7tla018.md
