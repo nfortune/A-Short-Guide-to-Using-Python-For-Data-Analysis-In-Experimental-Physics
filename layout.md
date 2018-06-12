@@ -49,6 +49,8 @@ figures/Residual_plot
 9k6894ie8mk.html
 5akado2fv54.md
 oop7s220qp.html
+d23nonpcn9s.md
+eo6tue6kq5s.html
 qn2op8dl4mk.tex
 nfv6i61kue8.html
 3do97s930qc.html
