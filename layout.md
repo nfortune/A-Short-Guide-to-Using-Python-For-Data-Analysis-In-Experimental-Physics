@@ -28,8 +28,6 @@ h3sd32muvhs.html
 ubfaghc22n4.md
 lu3ikg7aq74.html
 jc2asf9nop8.html
-60dnr89jnn8.html
-qjvg3sqarh8.html
 moc73ruvonc.html
 91ej7tla018.md
 bc8iul9dbms.html
