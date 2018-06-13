@@ -1,6 +1,6 @@
 ```
 V_pd_theory = (1/2)*V_0 * (1 + unumpy.cos(2*(theta_array - theta_0 ))) + V_1
 
-values = unumpy.nominal_values(V_pd_array)  #create an array with best estimates of V_
-uncertainties = unumpy.std_devs(V_pd_array)
+values = unumpy.nominal_values(V_pd_array)  #create an array with best estimates of V_pd
+uncertainties = unumpy.std_devs(V_pd_array) 
 ```
