@@ -1,5 +1,5 @@
 ```
 %matplotlib inline
 
-from 
+from numpy import 
 ```
