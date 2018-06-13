@@ -14,5 +14,5 @@ V_1 = ufloat(0.023, 0.016) # first element is the nominal value, the second is t
 theta_0 = ufloat(-1.16, 0.11) * pi / 180  # convert from degrees to radians 
 
 theta_data = angle_data * pi / 180
-delta_theta 
+delta_theta = 0.
 ```
