@@ -66,6 +66,8 @@ n26arsqjggg.md
 ts5ettqoa34.html
 g5lvfpkct6g.md
 it7rdafvo0g.html
+spbqhqsp8e.md
+0n8emh6uobs.html
 54l2l2311u4.html
 r496qi268mc.html
 figures/OpenTerminalWindowInAnacondaNavigator
