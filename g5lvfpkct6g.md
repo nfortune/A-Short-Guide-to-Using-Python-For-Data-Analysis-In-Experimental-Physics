@@ -2,5 +2,5 @@
 %matplotlib inline
 
 from numpy import *
-from 
+from uncertainties import
 ```
