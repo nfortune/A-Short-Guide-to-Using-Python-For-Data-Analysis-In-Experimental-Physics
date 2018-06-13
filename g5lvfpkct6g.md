@@ -11,5 +11,5 @@ angle_array, V_pd_array = loadtxt(filename, delimiter = ',', skiprows = 1, useco
 #define measured values V_0 ± delta_V_0, V_1 ± delta_V_1, etc  
 V_0 = ufloat(32.631, 0.024) # mV
 V_1 = ufloat(0.023, 0.016) # mV
-theta_0 = ufloat(-1.16, 0.11) * pi / 180  # convert from degrees
+theta_0 = ufloat(-1.16, 0.11) * pi / 180  # convert from degrees to radians 
 ```
