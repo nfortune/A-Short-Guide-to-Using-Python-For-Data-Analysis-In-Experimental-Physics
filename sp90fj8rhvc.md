@@ -2,7 +2,7 @@
 # example: traditional numpy import style 
 
 # import numpy     # if you use this, replace 'np' with 'numpy' in the loadtxt command
-import numpy as np # if you this allows you to type the abbreviation 'np' instead of 'numpy' when needed
+import numpy as np # if you use ththis allows you to type the abbreviation 'np' instead of 'numpy' when needed
 
 filename = '650 nm calibration.csv'
 
