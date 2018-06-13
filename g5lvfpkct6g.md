@@ -15,4 +15,6 @@ theta_0 = ufloat(-1.16, 0.11) * pi / 180  # convert from degrees to radians
 
 theta_data = angle_data * pi / 180
 delta_theta = 0.5 * pi / 180
+
+e
 ```
