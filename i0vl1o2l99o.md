@@ -1,5 +1,5 @@
 ```
-print(angle_data[0:3)
+print(angle_data[0:3])
 
 
 print(V_pd_theory[0:3])
