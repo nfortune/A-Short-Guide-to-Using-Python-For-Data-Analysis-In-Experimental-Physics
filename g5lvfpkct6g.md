@@ -17,6 +17,4 @@ theta_data = angle_data * pi / 180
 delta_theta = 0.5 * pi / 180
 
 theta_array = unumpy.uarray(theta_data, delta_theta) # create an array of angle values with uncertainty
-
-
 ```
