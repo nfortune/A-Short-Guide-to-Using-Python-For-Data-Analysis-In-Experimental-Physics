@@ -12,6 +12,7 @@ filefolder = ''                                   # use this if your data file i
 #filefolder = '/Users/nfortune/Python_Workspace'  # use this if data file is in a folder called 'Python_Workspace' 
                                                   # inside the folder 'nfortune' within the 'Users' directory 
                                                   # such as when using the Jupyter webserver jove.smith.edu
+                                                  
 
 data_file = filefolder + filename
 
