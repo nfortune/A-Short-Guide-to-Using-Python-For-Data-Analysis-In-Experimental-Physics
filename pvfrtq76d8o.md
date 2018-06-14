@@ -1,6 +1,6 @@
 ```
 ```
-import numpy as np                        # you only need to type this once don't need to type this more than once in a programm! 
+import numpy as np                        # you only need to type this once 
 
 angle_in_degrees = array([0, 30, 60, 90]) # create an array with elements corresponding to 0, 30, 60, and 90 degrees 
 angle_in_radians = degrees * pi / 180     # convert to radians
