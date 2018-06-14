@@ -7,8 +7,7 @@ file_name = 'Calibration_650nm.csv'               # replace with the name of you
 
 file_folder = ''                                  # use this if your data file is in the same folder as your python program
 
-#file_folder = 'data/'                            # you can use this if data file is in a _subfolder_ called data 
-                                                  # this is called 'relative addressing'
+
                                                   
 #file_folder = '/Users/nfortune/data'             # use this if data file is in a folder called 'Python_Workspace' 
                                                   # inside the folder 'nfortune' within the 'Users' directory 
