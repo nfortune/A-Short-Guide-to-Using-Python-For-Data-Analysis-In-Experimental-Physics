@@ -6,5 +6,6 @@ angle_in_radians = degrees * pi / 180 # convert to radians
 x = cos(angle_in_radians)
 y = sin(angle_in_radians)
 
-print()
+print(y)
+
 ```
