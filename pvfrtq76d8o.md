@@ -1,5 +1,5 @@
 ```
-#traditional import method
+#example: traditional import method
 
 import numpy as np                            # you only need to type this once in each program
 
