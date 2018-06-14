@@ -1,4 +1,5 @@
 ```
+
 import numpy as np                            # you only need to type this once in each program
 
 angle_in_degrees = np. array([0, 30, 60, 90]) # create an array with elements corresponding to 0, 30, 60, and 90 degrees 
