@@ -4,6 +4,8 @@ jq3iou3667o.html
 d9dojshtd68.html
 pseo5sae8e4.md
 odos56lord4.html
+d861qfvnreg.md
+9eh2lbvfi48.html
 sp90fj8rhvc.md
 ukumnha02a8.html
 59qiq0lfqto.html
