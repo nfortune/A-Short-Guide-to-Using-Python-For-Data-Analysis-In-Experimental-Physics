@@ -17,5 +17,5 @@ file_folder = ''                                  # use this if your data file i
 
 data_file = file_folder + file_name
 
-angle, V_pd, V_pd_error  = loadtxt(data_file, delimiter = ',', skiprows = 1, usecols = (0, 1, 2)unpack = True)
+angle, V_pd, V_pd_error  = loadtxt(data_file, delimiter = ',', skiprows = 1, usecols = (0, 1, 2), unpack = True)
 ```
