@@ -3,7 +3,7 @@ from numpy import sin, cos, array, pi     # import a few needed functions from t
 
 angle_in_degrees = array([0, 30, 60, 90]) # create an array with elements corresponding to 0, 30, 60, and 90 degrees 
 angle_in_radians = degrees * pi / 180     # convert to radians
-x = cos(angle_in_radians)                 # calculate cos(an)
+x = cos(angle_in_radians)                 # calculate cos()
 y = sin(angle_in_radians)
 
 print(y)
