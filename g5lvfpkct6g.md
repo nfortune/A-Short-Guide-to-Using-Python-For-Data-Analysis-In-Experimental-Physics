@@ -1,5 +1,6 @@
 ```
 %matplotlib inline
+
 from matplotlib import pyplot as plt  
 
 #import packages
