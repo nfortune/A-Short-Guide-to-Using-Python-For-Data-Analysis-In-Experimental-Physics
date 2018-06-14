@@ -5,4 +5,6 @@ angle_in_degrees = array([0, 30, 60, 90]) # create an array with elements corres
 angle_in_radians = degrees * pi / 180 # convert to radians
 x = cos(angle_in_radians)
 y = sin(angle_in_radians)
+
+
 ```
