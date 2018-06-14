@@ -7,5 +7,4 @@ x = cos(angle_in_radians)
 y = sin(angle_in_radians)
 
 print(y)
-
 ```
