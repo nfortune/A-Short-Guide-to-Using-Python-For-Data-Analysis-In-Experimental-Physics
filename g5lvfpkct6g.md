@@ -3,8 +3,6 @@
 
 #import packages
 from matplotlib import pyplot as plt  
-
-
 from numpy import *
 from uncertainties import ufloat, unumpy  # these are extensions of numpy floating point numbers and arrays
 
