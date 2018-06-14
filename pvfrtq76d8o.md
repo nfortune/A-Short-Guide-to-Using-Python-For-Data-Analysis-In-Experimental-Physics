@@ -7,5 +7,4 @@ x = np.cos(angle_in_radians)                    # calculate cosine for each elem
 y = np.sin(angle_in_radians)                 # calculate sine for each element in array, assign values to an array called 'y'
 
 print(y)
-
 ```
