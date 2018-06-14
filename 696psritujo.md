@@ -1,5 +1,4 @@
 ```
-```
 # example: direct import method 
 
 from numpy import loadtxt   #import just the numpy command loadtxt
