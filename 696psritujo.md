@@ -8,7 +8,7 @@ filefolder = ''                                   # use this if your data file i
 #filefolder = 'data/'                             # use this if data file is in a _subfolder_ called data ('relative' address)
 #filefolder = '/Users/nfortune/Python_Workspace'  # use this if data file is in a folder called Python_Workspace  
                                                   # inside the folder nfortune within the Users directory 
-                                                  # such as when using the Jupyter 
+                                                  # such as when using the Jupyter webserv
 
 data_file = filefolder + filename
 
