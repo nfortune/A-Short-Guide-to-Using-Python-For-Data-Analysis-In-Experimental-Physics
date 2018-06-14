@@ -3,7 +3,6 @@
 
 import numpy as np # only need this once per program
 
-from numpy import loadtxt   #only need to use this once per program
 
 file_name = 'Calibration_650nm.csv'               # replace with the name of your csv data file
 
