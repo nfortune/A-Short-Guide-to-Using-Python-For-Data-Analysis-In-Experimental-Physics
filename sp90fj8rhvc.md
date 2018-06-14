@@ -1,7 +1,7 @@
 ```
 # example: traditional numpy import style 
 
-# import numpy     # if you use this, replace 'np' with 'numpy' in the loadtxt command
+
 import numpy as np # if you use this, 'numpy' is replaced with the abbreviation 'np'
 
 filename = 'Calibration_650nm.csv'
