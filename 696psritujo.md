@@ -6,7 +6,7 @@ from numpy import loadtxt   #only need to use this once per program
 filename = 'Calibration_650nm.csv'    # replace with the name of your csv data file
 filefolder = ''                       # use this if your data file is in the same folder as your python program
 #filefolder = 'data/'                 # use this if data file is in a subfolder called data ('relative' address)
-#filefolder = '/Users/nfortune/data'  # use this if data file is in a 
+#filefolder = '/Users/nfortune/data'  # use this if data file is in a dif
 
 data_file = filefolder + filename
 
