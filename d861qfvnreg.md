@@ -1,3 +1,3 @@
 ```
-from numpy import sin, cos
+from numpy import sin, cos, 
 ```
