@@ -1,3 +1,4 @@
 ```
-from numpy import sin, cos, a
+from numpy import sin, cos, array
+
 ```
