@@ -1,7 +1,6 @@
 ```
 # example: traditional numpy import style 
 
-
 import numpy as np # if you use this, 'numpy' is replaced with the abbreviation 'np'
 
 filename = 'Calibration_650nm.csv'
