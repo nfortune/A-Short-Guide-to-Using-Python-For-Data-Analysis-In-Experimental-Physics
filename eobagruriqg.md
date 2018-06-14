@@ -3,7 +3,6 @@
 
 import numpy as np # only need this once per program
 
-
 file_name = 'Calibration_650nm.csv'               # replace with the name of your csv data file
 
 file_folder = ''                                  # use this if your data file is in the same folder as your python program
