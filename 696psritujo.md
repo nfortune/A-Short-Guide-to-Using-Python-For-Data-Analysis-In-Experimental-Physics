@@ -3,7 +3,7 @@
 
 from numpy import loadtxt   #only need to use this once per program
 
-filename = 'Calibration_650nm.csv'  # replace with 
+filename = 'Calibration_650nm.csv'  # replace with name of your 
 #this assumes the data file is in the same folder as your python program
 angle, V_pd, V_pd_error  = loadtxt(filename, delimiter = ',', skiprows = 1, unpack = True)
 ```
