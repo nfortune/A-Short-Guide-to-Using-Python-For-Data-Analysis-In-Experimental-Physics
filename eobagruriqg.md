@@ -12,7 +12,7 @@ file_folder = ''                                  # use this if your data file i
                                                   # such as when using the Jupyter webserver jove.smith.edu
                                                   # this is called 'absolute addressing'
 
-#file_folder = 'subfolder/'                      # you can use this if data file is in a _subfolder_ called 'subfolder'
+#file_folder = 'subfolder/'                       # you can use this if data file is in a _subfolder_ called 'subfolder'
                                                   # this is called 'relative addressing'
 data_file = file_folder + file_name
 
