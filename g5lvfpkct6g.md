@@ -1,9 +1,10 @@
 ```
 %matplotlib inline
 
+
 from matplotlib import pyplot as plt  
 
-#import packages
+
 from numpy import *
 from uncertainties import ufloat, unumpy  # these are extensions of numpy floating point numbers and arrays
 
