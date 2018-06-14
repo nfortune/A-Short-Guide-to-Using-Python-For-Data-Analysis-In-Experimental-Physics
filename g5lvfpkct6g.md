@@ -3,7 +3,7 @@
 from matplotlib import pyplot as plt  
 
 from numpy import *
-from uncertainties import ufloat, unumpy  # these 
+from uncertainties import ufloat, unumpy  # these are the 
 
 filename = 'Calibration_650nm.csv'
 angle_data, V_pd_data = loadtxt(filename, delimiter = ',', skiprows = 1, usecols = (1, 2), unpack = True) 
