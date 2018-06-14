@@ -1,5 +1,5 @@
 ```
 from numpy import sin, cos, array
 
-angle
+angles = 
 ```
