@@ -16,5 +16,5 @@ file_folder = ''                                  # use this if your data file i
                                                   # this is called 'relative addressing'
 data_file = file_folder + file_name
 
-angle, V_pd, V_pd_error  = np.loadtxt(data_file, delimiter = ',', skiprows = 1, useunpack = True)
+angle, V_pd, V_pd_error  = np.loadtxt(data_file, delimiter = ',', skiprows = 1, usecols unpack = True)
 ```
