@@ -15,7 +15,7 @@ file_folder = ''                                  # use this if your data file i
                                                   # such as when using the Jupyter webserver jove.smith.edu
                                                   # this is called 'absolute addressing'
 
-data_file = file_folder + filename
+data_file = file_folder + file_name
 
 angle, V_pd, V_pd_error  = loadtxt(data_file, delimiter = ',', skiprows = 1, unpack = True)
 ```
