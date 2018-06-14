@@ -7,5 +7,5 @@ filename = 'Calibration_650nm.csv'                                   # replace w
 #filefolder = 'jove.smith.edu/user/nfortune/tree/Python_Workspace/'  # replace with address of your csv data file 
 filefolder = ''                                                      # use this if your data file is in the same folder as your python program
 
-angle, V_pd, V_pd_error  = loadtxt(filefolder filename, delimiter = ',', skiprows = 1, unpack = True)
+angle, V_pd, V_pd_error  = loadtxt(filefolder + filename, delimiter = ',', skiprows = 1, unpack = True)
 ```
