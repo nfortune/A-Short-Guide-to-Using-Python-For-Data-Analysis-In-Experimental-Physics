@@ -4,7 +4,6 @@
 import matplotlib as mpl
 from matplotlib import pyplot as plt         #this is the traditional method
 
-
 rc('xtick', labelsize = 18)                  #use 18 point font for numbering on x axis
 rc('ytick', labelsize = 18)                  #use 18 point font for numbering on y axis
 
