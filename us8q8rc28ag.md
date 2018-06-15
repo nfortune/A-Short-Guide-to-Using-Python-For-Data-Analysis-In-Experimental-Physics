@@ -1,5 +1,5 @@
 ```
-estimated_error = photodiode_error(theta, delta_V0, delta_theta, delta_V1, fit[0], fit[1]) # propagate error 
+estimated_error = photodiode_error(theta, delta_V0, delta_theta, delta_V1, fit[0], fit[1]) # propagate error using new 
 
 fit, covariance = curve_fit(polarization_model, theta, V_pd, 
                             p0 = initial_guess, 
