@@ -1,7 +1,7 @@
 ```
 %matplotlib inline
 
-import 
+import mat
 from matplotlib import pyplot as plt         #this is the traditional method
 
 from matplotlib import rc                    #this allows you to change overall settings
