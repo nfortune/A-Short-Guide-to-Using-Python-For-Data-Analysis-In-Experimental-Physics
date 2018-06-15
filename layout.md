@@ -66,7 +66,6 @@ figures/Residual_plot
 oop7s220qp.html
 ad6an4o08pc.tex
 pu7cfg0ej38.html
-r7thvlgi5oo.html
 3do97s930qc.html
 m43gt43mhm.html
 66biq4jg06g.md
