@@ -1,3 +1,6 @@
 ```
-<Insert Code Here>
+V_0     =  32.631  ± 0.024  mV
+V_1     =   0.023  ± 0.016  mV
+theta_0 =  -0.0203 ± 0.0018 radian
+        =  -1.162  ± 0.102 degrees
 ```
