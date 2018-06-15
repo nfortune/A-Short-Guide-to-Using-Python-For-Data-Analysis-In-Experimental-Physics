@@ -1,8 +1,6 @@
 ```
 from scipy.stats import chi2          # 'chi-square' goodness of fit calculation
 
-
-
 chisq = sum((residual/ data_uncertainty))**2
 degrees_of_freedom = len(residual) - len(initial_guess)
 reduced_chisq = chisq / degrees_of_freedom  # this should be close to one
