@@ -8,7 +8,7 @@ grid:
   rows: 1
   columns: 1
   grid_elements:
-  - path: figures/Residual_plot/Residual_plot.png
+  - path: figures/Residual_plot/residual_error.png
     type: static
     from:
     - 1
@@ -16,5 +16,5 @@ grid:
     to:
     - 1
     - 1
-    url: "/users/18589/articles/304710/master/file/figures/Residual_plot/Residual_plot.png"
     folder_url: "/users/18589/articles/304710/master/folder/figures/Residual_plot"
+    url: "/users/18589/articles/304710/master/file/figures/Residual_plot/residual_error.png"
