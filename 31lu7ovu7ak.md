@@ -12,8 +12,7 @@ print(fit)
 
 old_fit = np.copy(fit)
 
-V_pd_model = polarization_model(theta, fit[0], fit[1], fit[2])
-residual = V_pd - V_pd_model
+
 
 data_uncertainty = photodiode_error(theta, delta_V0, delta_theta, delta_V1, fit[0], fit[1])
 
