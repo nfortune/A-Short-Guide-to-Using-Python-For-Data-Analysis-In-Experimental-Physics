@@ -1,4 +1,5 @@
 ```
+# import numpy as np
 
 def photodiode_error(phi_array, delta_V_0, delta_phi, delta_V_1, V_0, phi_0):  
     V_0_error= (delta_V_0 / V_0) * (np.cos(phi_array - phi_0))**2
