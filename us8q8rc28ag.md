@@ -5,7 +5,7 @@ estimated_error = photodiode_error(theta, delta_V0, delta_theta, delta_V1,
     fit[0], fit[1]) # propagate error using new values for V0, etc
 
 fit, covariance = curve_fit(polarization_model, theta, V_pd, 
-                            p0 = new, 
+                            p0 = new_initial, 
                             sigma = estimated_error, absolute_sigma = True)
 
 error = np.sqrt(np.diag(covariance))
