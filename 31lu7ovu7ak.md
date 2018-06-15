@@ -1,6 +1,6 @@
 ```
 estimated_error = photodiode_error(theta, delta_V0, delta_theta, delta_V1, 
-    V0, theta0)    #start with initi
+    V0, theta0)    #start with initial values
 
 fit, covariance = curve_fit(polarization_model, theta, V_pd, 
                             p0 = initial_guess, 
