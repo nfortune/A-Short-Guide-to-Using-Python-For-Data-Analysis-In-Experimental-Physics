@@ -1,5 +1,5 @@
 ```
-new_initial_values = np.array([fit[0], theta0, V1])
+new_initial_values = np.array([fit[0], fit, V1])
 
 estimated_error = photodiode_error(theta, delta_V0, delta_theta, delta_V1, 
     fit[0], fit[1]) # propagate error using new values for V0, etc
