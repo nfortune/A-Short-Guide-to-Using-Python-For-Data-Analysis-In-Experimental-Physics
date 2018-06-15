@@ -12,8 +12,6 @@ print(fit)
 
 old_fit = np.copy(fit)
 
-
-
 data_uncertainty = photodiode_error(theta, delta_V0, delta_theta, delta_V1, fit[0], fit[1])
 
 print()
