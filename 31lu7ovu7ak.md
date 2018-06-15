@@ -13,8 +13,6 @@ print(fit)
 
 old_fit = np.copy(fit)
 
-
-
 print()
 print('V_0    = ','{:.3f}'.format(fit[0]), '±', '{:.3f}'.format(error[0]), ' mV')
 print('V_1 = ','{:.4f}'.format(fit[2]), '±', '{:.3f}'.format(error[2]), ' mV')
