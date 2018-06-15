@@ -51,6 +51,8 @@ nbe5ah5ipcs.html
 us8q8rc28ag.md
 73rr7e7r798.html
 o94b1lgkvgc.html
+72lepfpm2i8.md
+co92jl7nbvs.html
 3lb7car3cao.md
 7d47ord9r9.html
 n1ic4ev0flc.html
