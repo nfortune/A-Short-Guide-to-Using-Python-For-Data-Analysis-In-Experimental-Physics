@@ -1,18 +1,21 @@
 ```
-theta_array = angle * pi/180 
+estimated_error = photodiode_error(theta, delta_V0, delta_theta, delta_V1, V0, theta0)
 
+fit, covariance = curve_fit(polarization_model, theta, V_pd, 
+                            p0 = initial_guess, 
+                            sigma = estimated_error, absolute_sigma = True)
 
-estimated_error = sigma(theta_array, dV0, dtheta, dV1, V0, theta0 )
+error = np.sqrt(np.diag(covariance))
 
-fit, covariance = curve_fit(polarization_model, theta_array, V_pd, 
-                       p0 = initial_guess, 
-                       sigma = estimated_error, absolute_sigma = True)
-                       
-error = sqrt(diag(covariance))                      
-                       
-V_0 = fit[0]
-theta_0 = fit[1]
-V_1 = fit[2]
+print(old_fit)
+print(fit)
+
+old_fit = np.copy(fit)
+
+V_pd_model = polarization_model(theta, fit[0], fit[1], fit[2])
+residual = V_pd - V_pd_model
+
+data_uncertainty = photodiode_error(theta, delta_V0, delta_theta, delta_V1, fit[0], fit[1])
 
 print()
 print('V_0    = ','{:.3f}'.format(fit[0]), '±', '{:.3f}'.format(error[0]), ' mV')
