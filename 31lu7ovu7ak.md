@@ -13,7 +13,7 @@ print(fit)
 old_fit = np.copy(fit)
 
 data_uncertainty = photodiode_error(theta, delta_V0, delta_theta, delta_V1, 
-    fit[0], fit[1])  # notice 
+    fit[0], fit[1])  # notice up
 
 print()
 print('V_0    = ','{:.3f}'.format(fit[0]), '±', '{:.3f}'.format(error[0]), ' mV')
