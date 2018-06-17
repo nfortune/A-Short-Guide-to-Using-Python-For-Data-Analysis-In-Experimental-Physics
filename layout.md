@@ -86,7 +86,6 @@ figures/Uncertainties
 8e85s8nhc74.html
 54l2l2311u4.html
 5rgjpuri0d8.html
-ci24kiaj188.html
 r496qi268mc.html
 figures/OpenTerminalWindowInAnacondaNavigator
 hk4gats0aek.html
