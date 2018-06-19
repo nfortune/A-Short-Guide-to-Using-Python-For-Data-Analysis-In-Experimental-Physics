@@ -1,5 +1,5 @@
 ```
 from numpy import gradient
 
-data_derivative = gradientO
+data_derivative = gradient
 ```
