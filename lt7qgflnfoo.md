@@ -1,3 +1,3 @@
 ```
-<Insert Code Here>
+from numpy import grad
 ```
