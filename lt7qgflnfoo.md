@@ -1,3 +1,3 @@
 ```
-from numpy import gradient, 
+from numpy import gradient, array
 ```
