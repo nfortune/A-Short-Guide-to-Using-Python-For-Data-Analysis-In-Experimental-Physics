@@ -68,7 +68,6 @@ ad6an4o08pc.tex
 pu7cfg0ej38.html
 7pnp5qm90hk.html
 a63elesog48.html
-1cjatcjiufk.html
 4dffil0sfvs.md
 5s59p0sc1t4.html
 figures/SVG_smoothing
