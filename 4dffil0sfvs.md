@@ -1,8 +1,8 @@
 ```
 from scipy.signal import savgol_filter  
 
-window_width = 25      # set number of points over which data is fit and smoothed equal to 
-polynomial_order = 2   # order of polynominal used to fit data (must be less than window_width)
+window_width = 25      # set number of points over which data is fit and smoothed equal to 25
+polynomial_order = 2   # sorder of polynominal used to fit data (must be less than window_width)
 
 data_spacing = 0.1     # data_spacing = x_1 - x_0 for data y(x_i)
 
