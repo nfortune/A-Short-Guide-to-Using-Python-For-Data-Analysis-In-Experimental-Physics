@@ -1,5 +1,5 @@
 ```
 import numpy as np
 
-data_derivative
+data_derivative_array 
 ```
