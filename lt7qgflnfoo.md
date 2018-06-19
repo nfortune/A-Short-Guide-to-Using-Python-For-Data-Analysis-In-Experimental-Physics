@@ -1,5 +1,5 @@
 ```
-from numpy import gradient, array
+import 
 
 
 ```
