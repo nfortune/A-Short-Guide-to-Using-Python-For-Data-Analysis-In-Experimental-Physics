@@ -1,4 +1,5 @@
 ```
 from numpy import gradient
-data_derivative = 
+
+data_derivative = gradient
 ```
