@@ -1,5 +1,5 @@
 ```
 import numpy as np
 
-f = np.array([)
+f = np.array([1, 2, )
 ```
