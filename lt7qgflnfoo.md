@@ -1,5 +1,5 @@
 ```
-import numpy as f
+import numpy as 
 
 
 ```
