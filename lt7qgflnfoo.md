@@ -1,7 +1,7 @@
 ```
 import numpy as np
 
-x = np.array(0., )
+x = np.array(0., 1., 1.)
 f = np.array([1, 2, 4, 7, 11, 16], dtype = float)
 
 ```
