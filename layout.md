@@ -74,6 +74,8 @@ figures/SVG_smoothing
 iti27a2755o.html
 figures/FiltFiltResult
 78n1q6uanc4.html
+3am5b8g5ef4.md
+git45n27r4c.html
 e04pglm2o6s.html
 3do97s930qc.html
 m43gt43mhm.html
