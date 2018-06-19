@@ -76,6 +76,8 @@ figures/FiltFiltResult
 78n1q6uanc4.html
 3am5b8g5ef4.md
 git45n27r4c.html
+h3nbnse63sg.md
+h4u6k5m3h2o.html
 lt7qgflnfoo.md
 oc2gackgvlk.html
 e04pglm2o6s.html
