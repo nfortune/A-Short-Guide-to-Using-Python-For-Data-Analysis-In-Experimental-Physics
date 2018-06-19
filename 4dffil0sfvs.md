@@ -7,6 +7,6 @@ polynomial_order = 2                     # order of polynominal used to fit data
 data_spacing = 0.1  # data_spacing = x_1 - x_0 for data y(x_i)
 
 smoothed_data   = savgol_filter(noisy_data, window_width, polynomial_order)                             #smooth data
-data_derivative = savgol_filter(noisy_data, window_width, polynomial_order, deriv = 1, delta = 0.1) #take 1st derivative, assuming spacing in x = 0.1 for data points y(x_0), y(x  is 0.1 
+data_derivative = savgol_filter(noisy_data, window_width, polynomial_order, deriv = 1, delta = 0.1) #take 1st derivative, assuming spacing in x = 0.1 for data points y(x_0), y(x_1)  is 0.1 
 
 ```
