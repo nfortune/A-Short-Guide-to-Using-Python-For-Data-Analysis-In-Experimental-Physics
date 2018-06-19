@@ -72,6 +72,8 @@ a63elesog48.html
 5s59p0sc1t4.html
 figures/SVG_smoothing
 iti27a2755o.html
+figures/FiltFiltResult
+78n1q6uanc4.html
 e04pglm2o6s.html
 3do97s930qc.html
 m43gt43mhm.html
