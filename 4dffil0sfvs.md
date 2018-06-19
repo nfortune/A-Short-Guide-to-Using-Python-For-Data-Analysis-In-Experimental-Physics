@@ -4,7 +4,7 @@ from scipy.signal import savgol_filter
 window_width = 25                              # number of points over which data is fit and smoothed
 polynomial_order = 2                     # order of polynominal used to fit data (must be less than window_width)
 
-smoothed_data   = savgol_filter(xn, window_width, polynomial_order)                             #smooth data
+smoothed_data   = savgol_filter(noisy, window_width, polynomial_order)                             #smooth data
 data_derivative = savgol_filter(xn, window_width, polynomial_order, deriv = 1, delta = delta_t) #take 1st derivative
 
 ```
