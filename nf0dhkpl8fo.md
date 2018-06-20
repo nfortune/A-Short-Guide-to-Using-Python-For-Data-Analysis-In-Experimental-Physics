@@ -10,7 +10,7 @@ plt.errorbar(angle, V_pd, xerr=None, yerr=data_uncertainty,
     label = "original data points")
 
 plt.errorbar(angle_fit, interpolated_data, xerr = None, yerr = None, 
-color = 'black', label = 'cubic spline interpolation')
+    color = 'black', label = 'cubic spline interpolation')
 
 
 plt.xlim(-15, 375)
