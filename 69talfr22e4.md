@@ -20,5 +20,5 @@ angle, V_pd, data_uncertainty  = np.loadtxt(
     
 #interpolate data
 interpolating_function = interp1d(angle, V_pd, kind = 'cubic') # create interpolation function from data
-interpolated_data = interpolating_function(angle_fit) #interpolate at 
+interpolated_data = interpolating_function(angle_fit) #interpolate at speci
 ```
