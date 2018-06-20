@@ -8,7 +8,7 @@ grid:
   rows: 1
   columns: 1
   grid_elements:
-  - path: figures/CurveFitToCalibration_650nm/CurveFitToCalibration_650nm.png
+  - path: figures/CurveFitToCalibration_650nm/corrected_fit.png
     type: static
     from:
     - 1
@@ -16,5 +16,5 @@ grid:
     to:
     - 1
     - 1
-    url: "/users/18589/articles/304710/master/file/figures/CurveFitToCalibration_650nm/CurveFitToCalibration_650nm.png"
     folder_url: "/users/18589/articles/304710/master/folder/figures/CurveFitToCalibration_650nm"
+    url: "/users/18589/articles/304710/master/file/figures/CurveFitToCalibration_650nm/corrected_fit.png"
