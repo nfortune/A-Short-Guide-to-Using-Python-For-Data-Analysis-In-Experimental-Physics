@@ -9,7 +9,7 @@ plt.ylabel(r"$V_{pd}$ [mV]", fontsize = 18)   #use 18 point font for label text
     color = 'red', label = 'fit to physical model' )
     
 plt.errorbar(angle, V_pd,  
-    xerr=None, yerr=data_uncertainty, 
+xerr=None, yerr=data_uncertainty, 
     linestyle = 'none', 
     color = 'blue',  
     capsize = 3, capthick = 2, label = "original data points")
