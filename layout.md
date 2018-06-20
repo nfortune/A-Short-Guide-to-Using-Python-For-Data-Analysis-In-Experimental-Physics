@@ -102,6 +102,8 @@ jjbr49dkum8.html
 bmf7orka1uo.html
 figures/UnivariateDerivativeWithZeros
 mb0rbdh7tmc.html
+figures/UnivariateSplineWithExtrema
+t694nqlbp6o.html
 3do97s930qc.html
 m43gt43mhm.html
 66biq4jg06g.md
