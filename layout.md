@@ -94,6 +94,8 @@ figures/Cubic_Spine_interpolation
 i6h5qoaq87s.html
 ojo9k6l9ato.md
 k5kdccegckk.html
+figures/UnivariateSplineFit
+m40sjmgvo6o.html
 3do97s930qc.html
 m43gt43mhm.html
 66biq4jg06g.md
