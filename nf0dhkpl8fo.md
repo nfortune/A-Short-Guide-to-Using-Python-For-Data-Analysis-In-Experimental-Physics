@@ -5,8 +5,7 @@ plt.figure(figsize = (11,8))                  #specify figure size as 7 x 5 inch
 plt.xlabel(r"$\theta$ [degrees]", fontsize = 18) #label axis (using LaTeX commands)
 plt.ylabel(r"$V_{pd}$ [mV]", fontsize = 18)   #use 18 point font for label text
 
-#plt.errorbar(angle_fit, V_pd_fit, xerr = None, yerr = None, 
-    color = 'red', label = 'fit to physical model' )
+
     
 plt.errorbar(angle, V_pd, xerr=None, yerr=data_uncertainty, 
     linestyle = 'none', color = 'blue',  capsize = 3, capthick = 2, 
