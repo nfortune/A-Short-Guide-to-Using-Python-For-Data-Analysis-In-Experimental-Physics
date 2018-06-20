@@ -19,7 +19,7 @@ angle, V_pd, data_uncertainty  = np.loadtxt(
     usecols = (0, 1, 2), unpack = True)
 
 #create array of angle values for interpolation
-new_angle_values = np.linspace()
+new_angle_values = np.linspace(0, 360)
 #interpolate data
 interpolating_function = interp1d(angle, V_pd, kind = 'cubic') # create interpolation function
 
