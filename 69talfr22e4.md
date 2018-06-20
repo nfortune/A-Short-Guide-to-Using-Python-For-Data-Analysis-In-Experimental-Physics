@@ -2,7 +2,7 @@
 #setup Jupyter notebook 
 %matplotlib inline
 
-
+#import 
 import matplotlib as mpl
 import matplotlib.pyplot as plt
 
