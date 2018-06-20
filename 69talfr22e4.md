@@ -6,7 +6,7 @@
 import matplotlib as mpl
 import matplotlib.pyplot as plt
 import numpy as np
-from scipy.interpolate import interp1d  # this is the 1d i
+from scipy.interpolate import interp1d  # this is the 1d iterp
 
 file_name = 'Calibration_650nm_result.csv' 
 file_folder = '/Users/nfortune/data/' 
