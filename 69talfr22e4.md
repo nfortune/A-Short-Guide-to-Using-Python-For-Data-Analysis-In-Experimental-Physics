@@ -1,5 +1,5 @@
 ```
-#set
+#setup Jupyter notebook 
 %matplotlib inline
 
 import matplotlib as mpl
