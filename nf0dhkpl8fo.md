@@ -6,7 +6,6 @@ plt.xlabel(r"$\theta$ [degrees]", fontsize = 18) #label axis (using LaTeX comman
 plt.ylabel(r"$V_{pd}$ [mV]", fontsize = 18)   #use 18 point font for label text
 
 
-
 #plt.errorbar(angle_fit, V_pd_fit, xerr = None, yerr = None, color = 'red', label = 'fit to physical model' )
 plt.errorbar(angle, V_pd,  
     xerr=None, yerr=data_uncertainty, 
