@@ -21,6 +21,7 @@ angle, V_pd, data_uncertainty  = np.loadtxt(
 #create array of angle values for interpolation
 new_angle_values = np.linspace(0, 360, 180)   # in degrees
 new_theta_values = new_angle_values * np.pi / 180 # convert to radians
+
 #interpolate data
 interpolating_function = interp1d(angle, V_pd, kind = 'cubic') # create interpolation function
 
