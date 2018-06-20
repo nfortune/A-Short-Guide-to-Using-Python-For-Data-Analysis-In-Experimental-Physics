@@ -18,7 +18,8 @@ angle, V_pd, data_uncertainty  = np.loadtxt(
     delimiter = ',', skiprows = 1, 
     usecols = (0, 1, 2), unpack = True)
 
-#create array of angle values for interpolation     
+#create array of angle values for interpolation
+angle
 #interpolate data
 interpolating_function = interp1d(angle, V_pd, kind = 'cubic') # create interpolation function
 
