@@ -3,7 +3,6 @@ plt.figure(figsize = (11,8))                  #specify figure size as 7 x 5 inch
                                              #for default size, type plt.figure() 
                                              
 
-
 plt.errorbar(angle, V_pd, xerr=None, yerr=data_uncertainty, 
     linestyle = 'none', color = 'blue',  capsize = 3, capthick = 2, 
     label = "original data points")
