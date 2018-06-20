@@ -13,7 +13,6 @@ plt.errorbar(angle_fit, interpolated_data, xerr = None, yerr = None,
     color = 'black', 
     label = 'cubic spline interpolation')
 
-
 plt.xlim(-15, 375)
 plt.ylim(-2.5, 40)
 plt.xticks([0,   30, 60, 90, 120, 150, 180, 210, 240, 270, 300, 330, 360], 
