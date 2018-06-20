@@ -10,7 +10,7 @@ plt.ylabel(r"$V_{pd}$ [mV]", fontsize = 18)   #use 18 point font for label text
     
 plt.errorbar(angle, V_pd, xerr=None, yerr=data_uncertainty, 
     linestyle = 'none', 
-    color = 'blue',  
+color = 'blue',  
     capsize = 3, capthick = 2, label = "original data points")
 
 plt.errorbar(angle_fit, interpolated_data, xerr = None, yerr = None, color = 'black', label = 'cubic spline interpolation')
