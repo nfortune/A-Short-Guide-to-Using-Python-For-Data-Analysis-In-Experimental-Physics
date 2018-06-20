@@ -25,5 +25,5 @@ new_theta_values = new_angle_values * np.pi / 180 # convert to radians
 #interpolate data
 interpolating_function = interp1d(angle, V_pd, kind = 'cubic') # create interpolation function
 
-interpolated_data = interpolating_function(angle_fit) #interpolate at new_angle_values
+interpolated_data = interpolating_function(new_angle_values) #interpolate at new_angle_values
 ```
