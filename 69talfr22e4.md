@@ -17,6 +17,4 @@ angle, V_pd, data_uncertainty  = np.loadtxt(
     file_folder + file_name, 
     delimiter = ',', skiprows = 1, 
     usecols = (0, 1, 2), unpack = True)
-
-
 ```
