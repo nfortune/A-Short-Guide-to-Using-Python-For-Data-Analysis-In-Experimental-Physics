@@ -1,6 +1,6 @@
 ```
 
-#import 
+from scipy.interpolate import InterpolatedUnivariateSpline
 InterpolatingUnivariateSpline_function = InterpolatedUnivariateSpline( angle, V_pd, k = 4) # k = 4 means 4th order
 
 #create array of new angle values for interpolation
