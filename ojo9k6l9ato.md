@@ -2,7 +2,7 @@
 from scipy.interpolate import InterpolatedUnivariateSpline
 
 #construct interpolating function
-InterpolatingUnivariateSpline_function = InterpolatedUnivariateSpline( angle, V_pd, k = 4) # k = order
+InterpolatingUnivariateSpline_function = InterpolatedUnivariateSpline( angle, V_pd, k = 4) # order
 
 #create array of new angle values for interpolation
 new_angle_values = np.linspace(0, 360, 180)   # in degrees
