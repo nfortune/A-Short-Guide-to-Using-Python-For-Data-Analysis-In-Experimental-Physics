@@ -4,6 +4,6 @@ InterpolatingUnivariateSpline_function = InterpolatedUnivariateSpline( angle, V_
 #create array of new angle values for interpolation
 new_angle_values = np.linspace(0, 360, 180)   # in degrees
 
-# in
+# generate 
 IUS_interpolated_data = InterpolatingUnivariateSpline_function(angle_fit)
 ```
