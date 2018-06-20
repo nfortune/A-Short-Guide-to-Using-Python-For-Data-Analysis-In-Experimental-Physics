@@ -91,7 +91,6 @@ nf0dhkpl8fo.md
 i9ptso84els.html
 figures/Cubic_Spine_interpolation
 4lkm2atddk.html
-so2dd54d8ps.html
 emddlkuvi9.html
 3do97s930qc.html
 m43gt43mhm.html
