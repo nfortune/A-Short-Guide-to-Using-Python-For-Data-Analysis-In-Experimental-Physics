@@ -8,7 +8,7 @@ grid:
   rows: 1
   columns: 1
   grid_elements:
-  - path: figures/Calibration_Plot_with_error_bars/Calibration_Plot_with_error_bars.png
+  - path: figures/Calibration_Plot_with_error_bars/Calibration_Plot_650nm_corrected.png
     type: static
     from:
     - 1
@@ -17,4 +17,4 @@ grid:
     - 1
     - 1
     folder_url: "/users/18589/articles/304710/master/folder/figures/Calibration_Plot_with_error_bars"
-    url: "/users/18589/articles/304710/master/file/figures/Calibration_Plot_with_error_bars/Calibration_Plot_with_error_bars.png"
+    url: "/users/18589/articles/304710/master/file/figures/Calibration_Plot_with_error_bars/Calibration_Plot_650nm_corrected.png"
