@@ -6,7 +6,7 @@ plt.errorbar(angle, V_pd, xerr=None, yerr=data_uncertainty,
     linestyle = 'none', color = 'blue',  capsize = 3, capthick = 2, 
     label = "original data points")
 
-plt.errorbar(angle_fit, interpolated_data, xerr = None, yerr = None, 
+plt.errorbar(new, interpolated_data, xerr = None, yerr = None, 
     color = 'black', 
     label = 'cubic spline interpolation')
 
