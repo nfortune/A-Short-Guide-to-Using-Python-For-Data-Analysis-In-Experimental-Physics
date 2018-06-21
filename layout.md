@@ -18,7 +18,6 @@ pvfrtq76d8o.md
 49f92tbc5i4.md
 otndb6uapns.html
 qp1oirp285s.html
-696psritujo.md
 07kehe9jj6.html
 eobagruriqg.md
 59qiq0lfqto.html
