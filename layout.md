@@ -77,7 +77,6 @@ figures/FiltFiltResult
 78n1q6uanc4.html
 figures/SVG_derivative
 frujbnodmq8.html
-3am5b8g5ef4.md
 git45n27r4c.html
 h3nbnse63sg.md
 h4u6k5m3h2o.html
