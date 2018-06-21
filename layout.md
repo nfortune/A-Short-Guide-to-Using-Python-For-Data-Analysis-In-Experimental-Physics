@@ -1,6 +1,4 @@
 untitled.html
-h9o59s1c1qg.html
-6bqige1m2us.html
 luea73leqlk.html
 figures/Calibration_650nm
 jq3iou3667o.html
