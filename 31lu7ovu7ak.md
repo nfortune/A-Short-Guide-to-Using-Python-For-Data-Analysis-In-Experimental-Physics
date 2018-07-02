@@ -1,5 +1,5 @@
 ```
-#from scipy.optimize import curve_fitfit, covariance = curve_fit(polarization_model, theta, V_pd, 
+#from scipy.optimize import curve_fit\fit, covariance = curve_fit(polarization_model, theta, V_pd, 
                             p0 = initial_guess, 
                             sigma = estimated_error, absolute_sigma = True)
 
