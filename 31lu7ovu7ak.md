@@ -6,7 +6,6 @@ from scipy.optimize import curve_fit # method used in notebooks uploaded here
 #from scipy import optimize
 #fit, covariance = optimize.curve_fit(...)
 
-
 #run curve_fit
 fit, covariance = curve_fit(polarization_model, theta, V_pd, 
                             p0 = initial_guess, 
