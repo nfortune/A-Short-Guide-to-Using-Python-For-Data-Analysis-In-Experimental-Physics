@@ -1,5 +1,5 @@
 ```
-fit, covariance = curve_fit(polarization_model, theta, V_pd, 
+#fit, covariance = curve_fit(polarization_model, theta, V_pd, 
                             p0 = initial_guess, 
                             sigma = estimated_error, absolute_sigma = True)
 
