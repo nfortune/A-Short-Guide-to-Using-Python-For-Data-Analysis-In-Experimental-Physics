@@ -2,7 +2,7 @@
 # load curve_fit routine from scipy
 from scipy.optimize import curve_fit # import method used here
 
-# alternative method (as recommended in docs.scipy.org/doc/scipy/reference.api.html)
+# alternative method (as recommended in hdocs.scipy.org/doc/scipy/reference.api.html)
 #from scipy import optimize
 #fit, covariance = optimize.curve_fit(...)
 
