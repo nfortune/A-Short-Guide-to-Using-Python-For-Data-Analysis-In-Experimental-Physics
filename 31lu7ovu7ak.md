@@ -1,5 +1,5 @@
 ```
-# load curve
+# load curve_fit 
 from scipy.optimize import curve_fit # method used in notebooks uploaded here
 
 #from scipy import optimize
