@@ -1,6 +1,6 @@
 ```
 # load curve_fit routine from scipy
-from scipy.optimize import curve_fit # method used here 
+from scipy.optimize import curve_fit # method used here
 
 # alternative method (as recommended in docs.scipy.org/doc/scipy/reference.api.html)
 #from scipy import optimize
